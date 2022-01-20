@@ -1,0 +1,12 @@
+Package: Decomp2d
+Version: 0.6.0
+Date: 2022-01-20
+Title: Two-Dimensional Decomposition
+Authors@R: c(person("Donghoh", "Kim", role = c("aut", "cre"), email = "donghoh.kim@gmail.com"),
+             person("Hee-Seok", "Oh", role = "ctb", email = "heeseok@stats.snu.ac.kr"),
+             person("Guebin", "Choi", role = "aut", email="gbchoi0814@gmail.com"))
+Author: Donghoh Kim [aut, cre], Hee-Seok Oh [ctb], Guebin Choi [aut]
+Maintainer: Donghoh Kim <donghoh.kim@gmail.com>
+Depends: R (>= 3.0), EMD (>= 1.5.9), EPT (>= 0.7.5), imagerExtra (>= 1.3.2), Rssa (>= 1.0.4), wavethresh (>= 4.6.8)
+Description: Two-dimensional decomposition for an image is implemented.
+License: GPL (>= 3)
