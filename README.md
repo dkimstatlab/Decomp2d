@@ -8,8 +8,8 @@ We provide an R solution termed "Decomp2d", tailored to the viewpoint of image d
 
 The "Decomp2d" solution can be installed through the following commands.
 
+```
 > install.packages("devtools")
-
 > devtools::install_github("dkimstatlab/Decomp2d")
-
 > library(Decomp2d)
+```
