@@ -1,3 +1,4 @@
+# version 0.6.0
 
 empperiod <- function(z) {
     rc <- dim(z)
