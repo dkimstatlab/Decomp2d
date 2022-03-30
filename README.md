@@ -14,5 +14,8 @@ The "Decomp2d" solution can be installed through the following commands.
 > library(Decomp2d)
 ```
 Or the package can be installed using package archive file "Decomp2d_0.6.0.tar.gz" at https://github.com/dkimstatlab/Decomp2dExample.
+```
+> install.packages("Decomp2d_0.6.0.tar.gz", repos = NULL, type = "source")
+```  
 
 The reference manual and the code of some examples can be accessible at https://github.com/dkimstatlab/Decomp2dExample.
