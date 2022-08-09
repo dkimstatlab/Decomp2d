@@ -22,8 +22,8 @@ decomp2d(z, method="wavelet",
 \item{emd.spar}{specifies user-supplied smoothing parameter of local polynomial smoothing for \code{"emd"}.}
 \item{emd.tol}{tolerance for stopping rule of sifting for \code{"emd"}.}
 \item{emd.maxiter}{the maximum number of sifting for \code{"emd"}.}
-\item{ept.tau}{a size parameter for \code{"ept"}: \code{tau[1]} for horizontal size and \code{tau[2]} for vertical size of a two-dimensional patch. When   \code{length(tau) is 1}, the horizontal and vertical size are the same.}
-\item{ept.process}{specifies transform types for \code{"ept"}: \code{process[1]} for patch process and \code{process[2]} for ensemble process.}
+\item{ept.tau}{a size parameter for \code{"ept"}: \code{ept.tau[1]} for horizontal size and \code{ept.tau[2]} for vertical size of a two-dimensional patch. When \code{length(ept.tau) is 1}, the horizontal and vertical size are the same.}
+\item{ept.process}{specifies transform types for \code{"ept"}: \code{ept.process[1]} for patch process and \code{ept.process[2]} for ensemble process.}
 \item{ept.tol}{tolerance for stopping rule of sifting for \code{"ept"}.}
 \item{ept.maxiter}{the maximum number of sifting for \code{"ept"}.}
 \item{pca.freqcomp}{numeric vectors of frequency components for \code{"pca"}.}
